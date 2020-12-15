@@ -51,3 +51,7 @@ geckodriver.log
 *.code-workspace
 .history
 .vscode
+
+# PDF and DOCX
+*.pdf
+*.docx
